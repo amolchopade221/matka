@@ -1,0 +1,39 @@
+npm init
+
+create model user
+install i mongoose
+make userSchema
+
+install validator
+use it with email and confirm password
+
+create controller
+import model
+exports controller
+
+create route
+export express
+import controller
+make path
+export route
+
+make app file
+export express
+import route
+make base route and call main route
+export app for serve
+
+make server
+import mongoose
+make config.env
+import dotenv
+import app file
+conect to mongoose by using .env info
+start server on port
+
+install nodemon
+npm init
+npm run start
+
+npm i jesonwebtoken
+
